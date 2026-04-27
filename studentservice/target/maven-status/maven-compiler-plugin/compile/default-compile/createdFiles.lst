@@ -1,0 +1,5 @@
+studentservice\StudentRequest.class
+studentservice\Student.class
+studentservice\StudentRepository.class
+studentservice\StudentController.class
+studentservice\StudentServiceApplication.class

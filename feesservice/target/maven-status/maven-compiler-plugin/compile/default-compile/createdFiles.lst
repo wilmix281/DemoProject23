@@ -1,0 +1,9 @@
+client\CollectFeeRequest.class
+client\FeeService.class
+client\StudentClient.class
+client\FeeController.class
+client\StudentDTO.class
+client\Receipt.class
+client\FeeServiceApplication.class
+client\ReceiptController.class
+client\ReceiptRepository.class
